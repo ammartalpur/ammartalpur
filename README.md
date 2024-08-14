@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently Studing on **College**
 
-- 🌱 I’m currently learning **Full Stack Web-Development Course with Web3 and Blockchain(Udemy)**
+- 🌱 I’m currently learning **Programming With C++**
 
 - 💬 Ask me about **anything related to backend**
 
