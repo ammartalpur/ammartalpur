@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/@proammard" target="blank"><img src="https://img.shields.io/twitter/follow/@proammard?logo=twitter&style=for-the-badge" alt="@proammard" /></a> </p>
 
-- 🔭 I’m currently Studing on **College**
+- 🔭 I’m currently Studing on **University**
 
-- 🌱 I’m currently learning **Programming With C++**
+- 🌱 I’m currently learning **Programming With C++ , FiveM Scripting**
 
 - 💬 Ask me about **anything related to backend**
 
@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/@proammard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@proammard" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/ammar-talpur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ammar-talpur" height="30" width="40" /></a>
-<a href="https://instagram.com/mirammar5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mirammar5" height="30" width="40" /></a>
+<a href="https://www.instagram.com/devlopwithammar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devlopwithammar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
